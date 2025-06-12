@@ -1,0 +1,13 @@
+# Welcome to Math Utility Repository
+
+## You will find in this repo the following stuff:
+
+* A Maven Java project to provide a Math library aka java.util.Math in JDK
+* A unit testing script using JUnit Testing framework
+* A TDD, DDT script
+* A demonstration of using CI (Continuous Integration) with Github Actions
+* ...
+
+### Connect me via: holehuubang2005@gmail.com
+
+#### &#169; 2025 HuuBng
