@@ -39,7 +39,7 @@ public class MathUtility {
             return 1;
 
         // ĐỆ QUY - RECURSION - GỌI LẠI CHÍNH MÌNH VỚI QUY MÔ NHỎ HƠN
-        return n + getFactorial(n-1);
+        return n * getFactorial(n-1);
     }
     // ĐEN LÊN SERVER RA MÀU XANH
         // 1. CODE TỐI ƯU NGON VÌ PASS TEST CASE
